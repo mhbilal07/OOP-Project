@@ -1,11 +1,11 @@
 
 /* 
 hi, this is an optimized poduction and management system for beverage manufacturers,
-We will be targeting Coca-Cola Company, Pepsi Co, Nestlé but for this project we are taking 
+We will be targeting Coca-Cola Company, Pepsi Co, NestlÃ© but for this project we are taking 
 algerian manufacturer "Hamoud Boualem" as a reference.
 It's better to take a look at "https://hamoud-boualem.com/en/" before diving into code :)
 
-Anas Jameel - 70150745
+M Hassan Bilal - 70150085
 
 
 */
